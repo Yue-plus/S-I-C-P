@@ -1,7 +1,7 @@
 # S-I-C-P
 
 
-## 网站：<https://SICP.YuePlus.ink/>
+## 网站：<https://SICP.Yue.Zone/>
 
 源梗来自 https://sicp.moe/
 
